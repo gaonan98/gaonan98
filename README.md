@@ -1,5 +1,3 @@
- ### Hi there 👋
-
 <!--
 **gaonan98/gaonan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +22,6 @@ Here are some ideas to get you started:
 -->
 
 <!--GitHub 活动统计图-->
+<!--
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gaonan98&theme=xcode" /> </div>
+-->
